@@ -1,2 +1,2 @@
 # env-ur3
-Related paper: Strategy Migration from Simulation to Real Manipulator System
+Related paper: A Method for Strategic Migration from Simulation to Real Manipulator System
