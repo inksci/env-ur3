@@ -5,5 +5,5 @@ Related paper: A Method for Strategic Migration from Simulation to Real Manipula
 [Click Here for The Video](https://github.com/inksci/env-ur3/raw/master/videos/simulation%20experiment.mp4)
 
 
-### experiment on real manipulator system
+### experiment on the real manipulator system
 [Click Here for The Video](https://github.com/inksci/env-ur3/raw/master/videos/real%20manipulator%20experiment.mp4)
